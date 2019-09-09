@@ -49,6 +49,8 @@ componentDidMount(){
 							<li className="nav-item">
 							<Link className="nav-link " Link to={'/FAq'}>Faq</Link>
 							</li>
+							
+							
 						</ul>
 					</div>
 				</nav>
@@ -60,7 +62,7 @@ componentDidMount(){
 					<div className="carousel-caption">
 						<h1>Live Dealer Game</h1>
 
-            <Link className="btn-dark"Link to={'/Deposit'}>Deposit</Link>
+                          <Link className="btn-dark"Link to={'/Deposit'}>Deposit</Link>
 
 
 					</div>

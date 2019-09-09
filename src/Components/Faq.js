@@ -45,6 +45,7 @@ export default class Faq extends Component {
                             <li className="nav-item">
                             <Link className="nav-link active " Link to={'/Faq'}>Faq</Link>
                             </li>
+                            
                         </ul>
                     </div>
                 </nav>

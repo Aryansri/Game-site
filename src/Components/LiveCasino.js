@@ -44,6 +44,7 @@ export default class LiveCasino extends Component {
 							<li className="nav-item">
 							<Link className="nav-link " Link to={'/FAQ'}>Faq</Link>
 							</li>
+							
 						</ul>
 					</div>
 				</nav>
